@@ -2,6 +2,7 @@ Market Basket Analysis merupakan salah satu penerapan metode association rule mi
 
 Data yang digunakan pada analisis ini adalah data yang bersumber dari kaggle tentang transaksi pembelian barang.
 https://www.kaggle.com/datasets/vipin20/transaction-data/data
+
 Deskripsi data:
 UserId : ID unik untuk semua
 TransactionId : ID transaksi
